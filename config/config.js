@@ -26,12 +26,12 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Eichel",
-	description: ["I'm studying Information Systems at Carnegie Mellon University and finished my major's curriculum in just 2.5 years with three minors: Human-Computer Interaction, Global Systems, and Politics and Public Policy. I believe in blending different fields of study because there's magic at the intersection. I've worked on projects like MTMC to help small businesses with tech, and I'll be spending a semester in D.C. in Fall 2024 to bring together my interests. I'm on track to graduate in 3.5 years and always eager to learn. Check out my journey and let's chat about how different fields can come together!"+
+	description: ["I'm studying Information Systems at Carnegie Mellon University and finished my major's curriculum in just 2.5 years with three minors: Human-Computer Interaction, Global Systems, and Politics and Public Policy. I believe in blending different fields of study because there's magic at the intersection. I've worked on projects like MTMC to help small businesses with tech, and I'll be spending a semester in D.C. in Fall 2024 to bring together my interests. I'm on track to graduate in 3.5 years and always eager to learn. Check out my journey and let's chat about how different fields can come together!",
 		
-	"\nBut beyond the campus, my commitment to security and diplomacy is evidenced by my tenure with the ROK Defense Counterintelligence Command. Serving as a Counterintelligence Sergeant, I specialized in counterterrorism, focusing on diplomatic and public relations analysis. My role extended to trend analysis in counterintelligence and simultaneous interpretation. Moreover, as the Squad Leader of the Counterintelligence & Counterterrorism Unit, I embraced the responsibility of guiding a dedicated team."+
+	"But beyond the campus, my commitment to security and diplomacy is evidenced by my tenure with the ROK Defense Counterintelligence Command. Serving as a Counterintelligence Sergeant, I specialized in counterterrorism, focusing on diplomatic and public relations analysis. My role extended to trend analysis in counterintelligence and simultaneous interpretation. Moreover, as the Squad Leader of the Counterintelligence & Counterterrorism Unit, I embraced the responsibility of guiding a dedicated team.",
 		
-	"\nWith study abroad to Shanghai as well, multiple work and project experiences, rigorous courses and student organization commitments, I aim to blend the academic rigor with real-world experience. I invite you to explore my profile, where technology, global perspectives, and policy intertwine."
-	],
+	"With study abroad to Shanghai as well, multiple work and project experiences, rigorous courses and student organization commitments, I aim to blend the academic rigor with real-world experience. I invite you to explore my profile, where technology, global perspectives, and policy intertwine."
+	].join("\n\n"),
 	image: profile.src,
 	buttons: [
 		{
